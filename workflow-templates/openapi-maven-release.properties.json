@@ -1,0 +1,5 @@
+{
+  "name": "openapi-maven-release",
+  "description": "Release belgif openapi projects to Maven Central when a version tag is created",
+  "iconName": "openapi-icon"
+}

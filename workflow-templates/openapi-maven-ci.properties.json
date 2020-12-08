@@ -1,0 +1,5 @@
+{
+  "name": "openapi-maven-ci",
+  "description": "Maven CI build for the belgif openapi projects",
+  "iconName": "openapi-icon"
+}
